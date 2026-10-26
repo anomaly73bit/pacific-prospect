@@ -1,5 +1,5 @@
 title: Pacific Prospect
-url: "https://anomaly73bit.github.io"
-baseurl: "/pacific-prospect"
+url: "https://prospect.pacificit.solutions"
+baseurl: ""
 markdown: kramdown
-exclude: [scripts, README.md, Gemfile, Gemfile.lock, tests, node_modules]
+exclude: [scripts, README.md, Gemfile, Gemfile.lock, tests, node_modules, preview]

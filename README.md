@@ -4,7 +4,7 @@ Portale Jekyll di intelligence commerciale per Pacific IT Solutions, in italiano
 
 ## Pubblicazione
 
-Il workflow `.github/workflows/pages.yml` valida i dati, costruisce Jekyll e pubblica su GitHub Pages. Se il repository non ha ancora Pages attivo, selezionare **Settings → Pages → Source → GitHub Actions**. URL previsto: https://anomaly73bit.github.io/pacific-prospect/
+Il workflow `.github/workflows/pages.yml` valida i dati, costruisce Jekyll e pubblica su GitHub Pages. Se il repository non ha ancora Pages attivo, selezionare **Settings → Pages → Source → GitHub Actions**. Dominio: https://prospect.pacificit.solutions/
 
 Per un dominio personalizzato, configurare Pages e DNS, quindi cambiare `url` e impostare `baseurl: ""` in `_config.yml`.
 

@@ -13,12 +13,12 @@
     "remote": "Remoto · Europa",
     "points": {
       "tech": 35,
-      "need": 25,
+      "need": 5,
       "remote": 25,
       "commercial": 0
     },
     "service": "Performance & scalabilità",
-    "signal": "Ricerca Infrastructure Engineer con esperienza di scaling PostgreSQL.",
+    "signal": "Segnale storico da riconfermare: Ricerca Infrastructure Engineer con esperienza di scaling PostgreSQL.",
     "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
     "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
     "people": [
@@ -27,14 +27,14 @@
         "role": "CEO & co-founder",
         "source": "https://getlago.com/about-us",
         "photo": "",
-        "linkedin": ""
+        "linkedin": "https://www.linkedin.com/in/anhthochuong"
       },
       {
         "name": "Raffi Sarkissian",
         "role": "CPO & co-founder",
         "source": "https://getlago.com/about-us",
         "photo": "",
-        "linkedin": ""
+        "linkedin": "https://www.linkedin.com/in/sarkissianraffi"
       }
     ],
     "sources": [
@@ -317,12 +317,12 @@
     "remote": "Remoto · paesi selezionati",
     "points": {
       "tech": 35,
-      "need": 25,
+      "need": 5,
       "remote": 15,
       "commercial": 0
     },
     "service": "Remote DBA",
-    "signal": "Annuncio DBA PostgreSQL con AWS RDS e Aurora; vincoli territoriali espliciti.",
+    "signal": "Segnale storico da riconfermare: Annuncio DBA PostgreSQL con AWS RDS e Aurora; vincoli territoriali espliciti.",
     "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
     "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
     "people": [],
@@ -852,14 +852,14 @@
         "role": "Co-founder",
         "source": "https://simplestudy.com/about",
         "photo": "https://simplestudy.com/_astro/oisin-v2_17vnTU.webp",
-        "linkedin": ""
+        "linkedin": "https://ie.linkedin.com/in/oisin-devoy-031242191"
       },
       {
         "name": "Affan Shahid",
         "role": "Engineering Manager",
         "source": "https://simplestudy.com/about",
         "photo": "https://simplestudy.com/_astro/affan_ZiGlYf.webp",
-        "linkedin": ""
+        "linkedin": "https://www.linkedin.com/in/affanshahid94/"
       }
     ],
     "sources": [

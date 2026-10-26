@@ -33,7 +33,11 @@ def main():
    success+=1;id=b['board']
    if not jobs:
     if id in records and records[id].get('origin')=='feed':del records[id]
-    if id in records and records[id].get('origin')=='curated':records[id]['sourceStatus']='Fonte editoriale; nessun annuncio pertinente nel feed corrente'
+    if id in records and records[id].get('origin')=='curated':
+     records[id]['sourceStatus']='Fonte editoriale; nessun annuncio pertinente nel feed corrente'
+     records[id]['points']['need']=5
+     records[id]['points']['commercial']=0
+     records[id]['signal']='Segnale storico da riconfermare: '+records[id]['signal']
     continue
    tech=sorted(set(t for _,ts in jobs for t in ts));best=sorted(jobs,key=lambda x:(bool(x[0].get('isRemote')),len(x[1])),reverse=True)
    j=best[0][0];text=' '.join(x[0].get('descriptionPlain','') for x in jobs);loc=j.get('location') or 'Da verificare'
