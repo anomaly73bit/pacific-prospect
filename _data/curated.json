@@ -1,0 +1,365 @@
+[
+  {
+    "id": "simplestudy",
+    "name": "SimpleStudy",
+    "location": "Europa / team internazionale",
+    "region": "Europa",
+    "sector": "EdTech",
+    "website": "https://simplestudy.com",
+    "description": "Piattaforma di studio digitale con un team distribuito e servizi AI.",
+    "tech": [
+      "PostgreSQL",
+      "MySQL",
+      "AWS"
+    ],
+    "remote": "Remoto · Europa",
+    "points": {
+      "tech": 35,
+      "need": 15,
+      "remote": 25,
+      "commercial": 8
+    },
+    "service": "Cloud & automazione",
+    "signal": "Annuncio DevOps: database in produzione, AWS e possibilità di contratto indipendente.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [
+      {
+        "name": "Phillip McKenna",
+        "role": "Co-founder",
+        "source": "https://simplestudy.com/about",
+        "photo": "https://simplestudy.com/_astro/phillip-v2_Z1tmhpf.webp",
+        "linkedin": "https://www.linkedin.com/in/phillip-mckenna-979867136"
+      },
+      {
+        "name": "Oisin Devoy",
+        "role": "Co-founder",
+        "source": "https://simplestudy.com/about",
+        "photo": "https://simplestudy.com/_astro/oisin-v2_17vnTU.webp",
+        "linkedin": ""
+      },
+      {
+        "name": "Affan Shahid",
+        "role": "Engineering Manager",
+        "source": "https://simplestudy.com/about",
+        "photo": "https://simplestudy.com/_astro/affan_ZiGlYf.webp",
+        "linkedin": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/simplestudy/4ab7e86d-92da-4957-9b96-991d72af9a23"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "lago",
+    "name": "Lago",
+    "location": "Francia / remoto Europa",
+    "region": "Europa",
+    "sector": "FinTech",
+    "website": "https://getlago.com",
+    "description": "Infrastruttura open source per fatturazione e misurazione dei consumi.",
+    "tech": [
+      "PostgreSQL"
+    ],
+    "remote": "Remoto · Europa",
+    "points": {
+      "tech": 35,
+      "need": 25,
+      "remote": 25,
+      "commercial": 0
+    },
+    "service": "Performance & scalabilità",
+    "signal": "Ricerca Infrastructure Engineer con esperienza di scaling PostgreSQL.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [
+      {
+        "name": "Anh-Tho Chuong",
+        "role": "CEO & co-founder",
+        "source": "https://getlago.com/about-us",
+        "photo": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Raffi Sarkissian",
+        "role": "CPO & co-founder",
+        "source": "https://getlago.com/about-us",
+        "photo": "",
+        "linkedin": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/lago/7f42566e-f778-4925-bd7e-745fc9f60cd2"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "plentific",
+    "name": "Plentific",
+    "location": "Europa / paesi ammessi da verificare",
+    "region": "Europa",
+    "sector": "PropTech",
+    "website": "https://www.plentific.com",
+    "description": "Software per gestire manutenzione, riparazioni e operazioni immobiliari.",
+    "tech": [
+      "PostgreSQL",
+      "AWS"
+    ],
+    "remote": "Remoto · paesi selezionati",
+    "points": {
+      "tech": 35,
+      "need": 15,
+      "remote": 15,
+      "commercial": 0
+    },
+    "service": "Health check database",
+    "signal": "Annuncio backend: PostgreSQL, AWS e processi transazionali articolati.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/plentific/1457ea09-10e5-4cff-bd80-0ab845c9edf6"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "stream",
+    "name": "Stream",
+    "location": "Paesi Bassi / remoto UE",
+    "region": "Europa",
+    "sector": "Developer tools",
+    "website": "https://getstream.io",
+    "description": "API e infrastrutture per chat, video e feed in applicazioni digitali.",
+    "tech": [
+      "PostgreSQL",
+      "AWS"
+    ],
+    "remote": "Remoto · UE",
+    "points": {
+      "tech": 35,
+      "need": 25,
+      "remote": 25,
+      "commercial": 0
+    },
+    "service": "Migrazione & alta disponibilità",
+    "signal": "Annuncio infrastruttura: migrazione da RDS a PostgreSQL autogestito e cambio cloud.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/stream/d86db37b-1a62-415c-91be-d7c7e5f0d36b/"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi.com",
+    "location": "Repubblica Ceca",
+    "region": "Europa",
+    "sector": "TravelTech",
+    "website": "https://www.kiwi.com",
+    "description": "Piattaforma di ricerca e prenotazione di viaggi.",
+    "tech": [
+      "PostgreSQL"
+    ],
+    "remote": "Ibrido",
+    "points": {
+      "tech": 35,
+      "need": 15,
+      "remote": 5,
+      "commercial": 0
+    },
+    "service": "Performance tuning",
+    "signal": "Annuncio Flight Experience con PostgreSQL e sistemi di viaggio in tempo reale.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.kiwi.com/jobs/senior-software-engineer-in-flight-experience/"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "sosafe",
+    "name": "SoSafe",
+    "location": "UK / Irlanda / Portogallo",
+    "region": "Europa",
+    "sector": "Cybersecurity",
+    "website": "https://sosafe-awareness.com",
+    "description": "Piattaforma di formazione e gestione del rischio umano nella sicurezza.",
+    "tech": [
+      "PostgreSQL",
+      "AWS"
+    ],
+    "remote": "Remoto · paesi selezionati",
+    "points": {
+      "tech": 35,
+      "need": 25,
+      "remote": 15,
+      "commercial": 0
+    },
+    "service": "Remote DBA",
+    "signal": "Annuncio DBA PostgreSQL con AWS RDS e Aurora; vincoli territoriali espliciti.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/sosafe/05d782dc-2d24-4153-a2b0-28a8f6e06c74"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "sanity",
+    "name": "Sanity",
+    "location": "Remoto Europa",
+    "region": "Europa",
+    "sector": "SaaS",
+    "website": "https://www.sanity.io",
+    "description": "Piattaforma per contenuti digitali e workflow applicativi.",
+    "tech": [
+      "PostgreSQL"
+    ],
+    "remote": "Remoto · Europa",
+    "points": {
+      "tech": 35,
+      "need": 15,
+      "remote": 25,
+      "commercial": 0
+    },
+    "service": "Sicurezza & database development",
+    "signal": "Annuncio Identity: servizi PostgreSQL e sistemi di autenticazione.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/sanity/6aec617b-1744-40c1-a6ac-a5892b575085/"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "customerio",
+    "name": "Customer.io",
+    "location": "Internazionale",
+    "region": "Mondo",
+    "sector": "MarTech",
+    "website": "https://customer.io",
+    "description": "Piattaforma di comunicazione multicanale alimentata dai dati dei clienti.",
+    "tech": [],
+    "remote": "Da verificare",
+    "points": {
+      "tech": 10,
+      "need": 5,
+      "remote": 0,
+      "commercial": 0
+    },
+    "service": "Assessment dati & integrazioni",
+    "signal": "Attività data-intensive documentata; stack e acquisto di servizi esterni da qualificare.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [
+      {
+        "name": "Colin Nederkoorn",
+        "role": "Founder & CEO",
+        "source": "https://customer.io/about",
+        "photo": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Matthew Newhook",
+        "role": "CTO",
+        "source": "https://customer.io/about",
+        "photo": "",
+        "linkedin": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://customer.io/about"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  },
+  {
+    "id": "gitlab",
+    "name": "GitLab",
+    "location": "Internazionale",
+    "region": "Mondo",
+    "sector": "Developer tools",
+    "website": "https://about.gitlab.com",
+    "description": "Piattaforma DevSecOps con attività software e infrastrutture globali.",
+    "tech": [],
+    "remote": "Team all-remote",
+    "points": {
+      "tech": 10,
+      "need": 5,
+      "remote": 25,
+      "commercial": 0
+    },
+    "service": "Assessment & automazione",
+    "signal": "Organizzazione distribuita; possibile bisogno da qualificare, nessuna richiesta commerciale rilevata.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [
+      {
+        "name": "Bill Staples",
+        "role": "CEO",
+        "source": "https://about.gitlab.com/company/team/e-group/",
+        "photo": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Siva Padisetty",
+        "role": "CTO",
+        "source": "https://about.gitlab.com/company/team/e-group/",
+        "photo": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Manu Narayan",
+        "role": "CIO",
+        "source": "https://about.gitlab.com/company/team/e-group/",
+        "photo": "",
+        "linkedin": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://about.gitlab.com/press/releases/2026-07-20-gitlab-appoints-thomas-lloyd-as-chief-business-and-legal-officer/"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated"
+  }
+]

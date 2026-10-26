@@ -1,0 +1,29 @@
+{
+  "updated": "2026-10-26",
+  "sourceCount": 30,
+  "successfulFeeds": 25,
+  "failedFeeds": [
+    {
+      "source": "customerio",
+      "error": "HTTPError"
+    },
+    {
+      "source": "remote",
+      "error": "HTTPError"
+    },
+    {
+      "source": "retool",
+      "error": "HTTPError"
+    },
+    {
+      "source": "mistral",
+      "error": "HTTPError"
+    },
+    {
+      "source": "cal",
+      "error": "HTTPError"
+    }
+  ],
+  "companies": 25,
+  "coverage": "Catalogo editoriale e aziende con job board configurata; non esaustivo."
+}
