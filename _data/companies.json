@@ -1,53 +1,5 @@
 [
   {
-    "id": "lago",
-    "name": "Lago",
-    "location": "Francia / remoto Europa",
-    "region": "Europa",
-    "sector": "FinTech",
-    "website": "https://getlago.com",
-    "description": "Infrastruttura open source per fatturazione e misurazione dei consumi.",
-    "tech": [
-      "PostgreSQL"
-    ],
-    "remote": "Remoto · Europa",
-    "points": {
-      "tech": 35,
-      "need": 5,
-      "remote": 25,
-      "commercial": 0
-    },
-    "service": "Performance & scalabilità",
-    "signal": "Segnale storico da riconfermare: Ricerca Infrastructure Engineer con esperienza di scaling PostgreSQL.",
-    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
-    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
-    "people": [
-      {
-        "name": "Anh-Tho Chuong",
-        "role": "CEO & co-founder",
-        "source": "https://getlago.com/about-us",
-        "photo": "",
-        "linkedin": "https://www.linkedin.com/in/anhthochuong"
-      },
-      {
-        "name": "Raffi Sarkissian",
-        "role": "CPO & co-founder",
-        "source": "https://getlago.com/about-us",
-        "photo": "",
-        "linkedin": "https://www.linkedin.com/in/sarkissianraffi"
-      }
-    ],
-    "sources": [
-      {
-        "label": "Fonte pubblica del segnale",
-        "url": "https://jobs.ashbyhq.com/lago/7f42566e-f778-4925-bd7e-745fc9f60cd2"
-      }
-    ],
-    "checked": "2026-10-26",
-    "origin": "curated",
-    "sourceStatus": "Fonte editoriale; nessun annuncio pertinente nel feed corrente"
-  },
-  {
     "id": "supabase",
     "name": "Supabase",
     "website": "https://supabase.com",
@@ -69,7 +21,7 @@
       "commercial": 0
     },
     "service": "Health check & Remote DBA",
-    "signal": "47 annunci tecnici pertinenti. Esempio: Software Engineer - Auth.",
+    "signal": "48 annunci tecnici pertinenti. Esempio: Software Engineer - Auth.",
     "rationale": "Tecnologie citate negli annunci: AWS, Azure, MySQL, PostgreSQL. La ricerca di dipendenti non dimostra apertura a servizi B2B.",
     "pitch": "Proporre un assessment mirato alle tecnologie citate, verificando prima se valutano un supporto esterno.",
     "people": [],
@@ -95,7 +47,7 @@
         "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -144,7 +96,7 @@
         "url": "https://jobs.ashbyhq.com/linear/0c7c2e26-0a98-42cf-a47c-9a3999fb513b"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -197,7 +149,7 @@
         "url": "https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -247,7 +199,7 @@
         "url": "https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -298,43 +250,9 @@
         "url": "https://jobs.ashbyhq.com/sentry/68b3897c-bbb0-4f90-aa9a-57981323e26b"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
-  },
-  {
-    "id": "sosafe",
-    "name": "SoSafe",
-    "location": "UK / Irlanda / Portogallo",
-    "region": "Europa",
-    "sector": "Cybersecurity",
-    "website": "https://sosafe-awareness.com",
-    "description": "Piattaforma di formazione e gestione del rischio umano nella sicurezza.",
-    "tech": [
-      "PostgreSQL",
-      "AWS"
-    ],
-    "remote": "Remoto · paesi selezionati",
-    "points": {
-      "tech": 35,
-      "need": 5,
-      "remote": 15,
-      "commercial": 0
-    },
-    "service": "Remote DBA",
-    "signal": "Segnale storico da riconfermare: Annuncio DBA PostgreSQL con AWS RDS e Aurora; vincoli territoriali espliciti.",
-    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
-    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
-    "people": [],
-    "sources": [
-      {
-        "label": "Fonte pubblica del segnale",
-        "url": "https://jobs.ashbyhq.com/sosafe/05d782dc-2d24-4153-a2b0-28a8f6e06c74"
-      }
-    ],
-    "checked": "2026-10-26",
-    "origin": "curated",
-    "sourceStatus": "Fonte editoriale; nessun annuncio pertinente nel feed corrente"
   },
   {
     "id": "stream",
@@ -374,7 +292,7 @@
         "url": "https://jobs.ashbyhq.com/stream/574bba24-f1bc-4686-a6a2-4467885fc7fb"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "origin": "curated",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica"
   },
@@ -412,7 +330,7 @@
         "url": "https://jobs.ashbyhq.com/wayflyer/59f3c28d-c365-4343-a11e-001cef58ce90"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -463,7 +381,7 @@
         "url": "https://jobs.ashbyhq.com/docker/0c3291ff-141c-4dbd-8369-10f0d1e99d2c"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -497,9 +415,57 @@
         "url": "https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
+  },
+  {
+    "id": "lago",
+    "name": "Lago",
+    "location": "Francia / remoto Europa",
+    "region": "Europa",
+    "sector": "FinTech",
+    "website": "https://getlago.com",
+    "description": "Infrastruttura open source per fatturazione e misurazione dei consumi.",
+    "tech": [
+      "PostgreSQL"
+    ],
+    "remote": "Remoto · Europa",
+    "points": {
+      "tech": 35,
+      "need": 5,
+      "remote": 25,
+      "commercial": 0
+    },
+    "service": "Performance & scalabilità",
+    "signal": "Segnale storico da riconfermare: Ricerca Infrastructure Engineer con esperienza di scaling PostgreSQL.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [
+      {
+        "name": "Anh-Tho Chuong",
+        "role": "CEO & co-founder",
+        "source": "https://getlago.com/about-us",
+        "photo": "",
+        "linkedin": "https://www.linkedin.com/in/anhthochuong"
+      },
+      {
+        "name": "Raffi Sarkissian",
+        "role": "CPO & co-founder",
+        "source": "https://getlago.com/about-us",
+        "photo": "",
+        "linkedin": "https://www.linkedin.com/in/sarkissianraffi"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/lago/7f42566e-f778-4925-bd7e-745fc9f60cd2"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated",
+    "sourceStatus": "Fonte editoriale; nessun annuncio pertinente nel feed corrente"
   },
   {
     "id": "plentific",
@@ -543,7 +509,7 @@
         "url": "https://jobs.ashbyhq.com/plentific/4b8e9337-02f8-4f9e-a35a-7e1d58b98412"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "origin": "curated",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica"
   },
@@ -594,20 +560,19 @@
         "url": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
   {
     "id": "sanity",
     "name": "Sanity",
-    "location": "London, UK",
-    "region": "Europa",
+    "location": "Remote in the United States or Canada (East Coast/ET)",
+    "region": "Mondo",
     "sector": "SaaS",
     "website": "https://www.sanity.io",
     "description": "Piattaforma per contenuti digitali e workflow applicativi.",
     "tech": [
-      "AWS",
       "PostgreSQL"
     ],
     "remote": "Remoto · vincoli da verificare",
@@ -618,21 +583,17 @@
       "commercial": 0
     },
     "service": "Health check & Remote DBA",
-    "signal": "2 annunci tecnici pertinenti. Esempio: Director, Cloud Infrastructure.",
-    "rationale": "Tecnologie citate negli annunci: AWS, PostgreSQL. La ricerca di dipendenti non dimostra apertura a servizi B2B.",
+    "signal": "1 annunci tecnici pertinenti. Esempio: Senior Site Reliability Engineer.",
+    "rationale": "Tecnologie citate negli annunci: PostgreSQL. La ricerca di dipendenti non dimostra apertura a servizi B2B.",
     "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
     "people": [],
     "sources": [
-      {
-        "label": "Director, Cloud Infrastructure",
-        "url": "https://jobs.ashbyhq.com/sanity/2bd22c35-4801-44bd-8487-8a280d4aba14"
-      },
       {
         "label": "Senior Site Reliability Engineer",
         "url": "https://jobs.ashbyhq.com/sanity/01b3e311-43a1-49fd-8fb8-3587881e5316"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "origin": "curated",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica"
   },
@@ -683,7 +644,7 @@
         "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -722,7 +683,7 @@
         "url": "https://jobs.ashbyhq.com/zapier/7683bf9a-cb86-47de-a15b-4bcc0b70e2e2"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -772,7 +733,7 @@
         "url": "https://jobs.ashbyhq.com/plane/72cc6311-ff58-4dc9-a54d-e1fb34657105"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -813,7 +774,7 @@
         "url": "https://jobs.ashbyhq.com/posthog/1464036f-94d5-4dbd-aef8-fe99246a26d4"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -880,7 +841,7 @@
         "url": "https://jobs.ashbyhq.com/simplestudy/34fb920d-87fd-4305-bc8f-d225bba2d886"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "origin": "curated",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica"
   },
@@ -915,6 +876,40 @@
     ],
     "checked": "2026-10-26",
     "origin": "curated"
+  },
+  {
+    "id": "sosafe",
+    "name": "SoSafe",
+    "location": "UK / Irlanda / Portogallo",
+    "region": "Europa",
+    "sector": "Cybersecurity",
+    "website": "https://sosafe-awareness.com",
+    "description": "Piattaforma di formazione e gestione del rischio umano nella sicurezza.",
+    "tech": [
+      "PostgreSQL",
+      "AWS"
+    ],
+    "remote": "Remoto · paesi selezionati",
+    "points": {
+      "tech": 35,
+      "need": 5,
+      "remote": 15,
+      "commercial": 0
+    },
+    "service": "Remote DBA",
+    "signal": "Segnale storico da riconfermare: Annuncio DBA PostgreSQL con AWS RDS e Aurora; vincoli territoriali espliciti.",
+    "rationale": "La tecnologia e il contesto indicano una possibile affinità. La disponibilità ad acquistare servizi esterni non è confermata.",
+    "pitch": "Proporre un breve confronto tecnico e un assessment a perimetro definito, prima di discutere un supporto continuativo.",
+    "people": [],
+    "sources": [
+      {
+        "label": "Fonte pubblica del segnale",
+        "url": "https://jobs.ashbyhq.com/sosafe/05d782dc-2d24-4153-a2b0-28a8f6e06c74"
+      }
+    ],
+    "checked": "2026-10-26",
+    "origin": "curated",
+    "sourceStatus": "Fonte editoriale; nessun annuncio pertinente nel feed corrente"
   },
   {
     "id": "elevenlabs",
@@ -962,7 +957,7 @@
         "url": "https://jobs.ashbyhq.com/elevenlabs/a787e8ee-f1c4-422d-95f8-61ffd4eefb95"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -1007,7 +1002,7 @@
         "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
@@ -1040,7 +1035,7 @@
         "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3"
       }
     ],
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "sourceStatus": "Feed pubblico consultato; annunci presenti alla verifica",
     "origin": "feed"
   },
